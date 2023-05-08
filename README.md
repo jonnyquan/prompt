@@ -1,2 +1,2 @@
 # prompt
-[promptof.com](www.promptof.com)
+[promptof.com](https://www.promptof.com)
