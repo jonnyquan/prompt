@@ -1,2 +1,2 @@
 # prompt
-promptof.com
+[promptof.com](www.promptof.com)
